@@ -15,5 +15,5 @@
 - cherry blossoms in full bloom
 - riot of cherry blossoms
 
-#### 無理心中（無理心中）
+### 無理心中（無理心中）
 - forced double suicide

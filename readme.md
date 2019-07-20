@@ -19,4 +19,13 @@
 - forced double suicide
 
 ### 心外千万（しんがいせんばん）
-- being totally upset (by); being completely nonplused (by); being mortified (at); feeling aggrieved (at); finding (it) highly regrettable
+- being totally upset (by)
+- being completely nonplused (by)
+- being mortified (at)
+- feeling aggrieved (at)
+- finding (it) highly regrettable
+
+### 異国情緒（いこくじょうちょ）
+- exotic mood
+- exotic atmosphere
+- exoticism

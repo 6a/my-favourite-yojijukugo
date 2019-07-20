@@ -6,11 +6,11 @@
 
 ---
 
-### 干天慈雨（旱天慈雨）
+### 干天慈雨｜旱天慈雨（かんてんじう）
 - welcome (beneficial) rain in a drought
 - realization of something eagerly looked for
 - a welcome relief
 
-### 桜花爛漫
+### 桜花爛漫（桜花爛漫）
 - cherry blossoms in full bloom
 - riot of cherry blossoms

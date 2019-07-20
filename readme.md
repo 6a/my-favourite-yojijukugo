@@ -14,3 +14,6 @@
 ### 桜花爛漫（桜花爛漫）
 - cherry blossoms in full bloom
 - riot of cherry blossoms
+
+#### 無理心中（無理心中）
+- forced double suicide

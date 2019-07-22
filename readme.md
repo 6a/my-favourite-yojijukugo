@@ -37,3 +37,6 @@
 ### 輪廻転生（りんねてんしょう）
 - all things being in flux through the endless circle of birth, death, and rebirth
 - the circle of transmigration
+
+### 呉越同舟（ごえつどうしゅう）
+- bitter enemies (placed by fate) in the same boat

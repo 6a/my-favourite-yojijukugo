@@ -29,3 +29,7 @@
 - exotic mood
 - exotic atmosphere
 - exoticism
+
+### 不老不死（ふろうふし）
+- perpetual youth and longevity
+- immortality

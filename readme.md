@@ -33,3 +33,7 @@
 ### 不老不死（ふろうふし）
 - perpetual youth and longevity
 - immortality
+
+### 輪廻転生（りんねてんしょう）
+- all things being in flux through the endless circle of birth, death, and rebirth
+- the circle of transmigration

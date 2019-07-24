@@ -40,3 +40,7 @@
 
 ### 呉越同舟（ごえつどうしゅう）
 - bitter enemies (placed by fate) in the same boat
+
+### 白刃一閃（はくじんいっせん）
+- (with) a flash of a drawn sword
+- brandishing a sword

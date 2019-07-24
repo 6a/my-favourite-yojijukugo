@@ -44,3 +44,8 @@
 ### 白刃一閃（はくじんいっせん）
 - (with) a flash of a drawn sword
 - brandishing a sword
+
+### 紫電一閃（しでんいっせん）
+- flash of lightning
+- flash of a sword
+- andishing a sword

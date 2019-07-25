@@ -55,3 +55,6 @@ straight to the point
 - point-blank
 - frank
 - direct
+
+### 無礼千万 （ぶれいせんばん）
+- extremely rude (impertinent, impolite)

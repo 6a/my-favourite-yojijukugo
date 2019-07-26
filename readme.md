@@ -58,3 +58,6 @@ straight to the point
 
 ### 無礼千万 （ぶれいせんばん）
 - extremely rude (impertinent, impolite)
+
+### 前途有望（ぜんとゆうぼう）
+- promising future

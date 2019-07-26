@@ -61,3 +61,8 @@ straight to the point
 
 ### 前途有望（ぜんとゆうぼう）
 - promising future
+
+### 千差万別（せんさばんべつ）
+- an infinite variety of
+- multifarious
+- being extremely varied and wide-ranging

@@ -85,3 +85,8 @@
 - many flowers blooming in profusion
 - gathering of many beautiful women (talented people) 
 - simultaneous emergence of many talents and achievements
+
+### 雄大無比（ゆうだいむひ）
+- unparalleled grandeur
+- the grandest
+- the most spectacular

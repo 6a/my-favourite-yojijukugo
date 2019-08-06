@@ -71,3 +71,8 @@
 - in all sincerity
 - with one's whole heart
 - whole-hearted devotion
+
+### 一網打尽（いちもうだじん）
+- round-up (e.g. of criminals)
+- wholesale arrest
+- catching the whole herd with one throw

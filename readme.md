@@ -80,3 +80,8 @@
 ### 勇往邁進 （ゆうおうまいしん）
 - dash and go
 - pushing forward
+
+### 百花繚乱（ひゃっかりょうらん）
+- many flowers blooming in profusion
+- gathering of many beautiful women (talented people) 
+- simultaneous emergence of many talents and achievements

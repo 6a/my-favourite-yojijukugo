@@ -76,3 +76,7 @@
 - round-up (e.g. of criminals)
 - wholesale arrest
 - catching the whole herd with one throw
+
+### 勇往邁進 （ゆうおうまいしん）
+- dash and go
+- pushing forward

@@ -51,7 +51,7 @@
 - andishing a sword
 
 ### 単刀直入（たんとうちょくにゅう）
-straight to the point
+- straight to the point
 - point-blank
 - frank
 - direct

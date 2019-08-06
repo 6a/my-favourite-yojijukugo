@@ -90,3 +90,8 @@
 - unparalleled grandeur
 - the grandest
 - the most spectacular
+
+### 心機一転（しんきいってん）
+- changing one's attitude
+- turning over a new leaf
+- getting a fresh start

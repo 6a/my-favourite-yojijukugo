@@ -66,3 +66,8 @@ straight to the point
 - an infinite variety of
 - multifarious
 - being extremely varied and wide-ranging
+
+### 誠心誠意（せいしんせいい）
+- in all sincerity
+- with one's whole heart
+- whole-hearted devotion

@@ -95,3 +95,14 @@
 - changing one's attitude
 - turning over a new leaf
 - getting a fresh start
+
+### 上下関係（じょうげかんけい）
+- pecking order
+- hierarchical relationship
+- vertical relationship
+- hyponymy​
+
+### 猪突猛進（ちょとつもうしん）
+- headlong rush
+- rushing recklessly​
+- boar rush（鬼滅の刃より）

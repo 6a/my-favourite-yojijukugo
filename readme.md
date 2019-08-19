@@ -106,3 +106,7 @@
 - headlong rush
 - rushing recklessly​
 - boar rush（鬼滅の刃より）
+
+### 落涙滂沱（らくるいぼうだ）
+- tears streaming down one's cheeks
+- shedding copious tears​
